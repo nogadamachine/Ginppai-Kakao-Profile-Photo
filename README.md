@@ -91,10 +91,10 @@ cd Ginppai-Kakao-Profile-Photo
 
 ### 기본 실행 (권장)
 
+macOS용 PC카톡에서 추출하고 싶은 사람의 카카오톡 프로필 사진을 확인한 후
 ```bash
 python3 ginppai.py
 ```
-
 ### 주요 옵션 전체 목록
 
 | 옵션 | 설명 |
